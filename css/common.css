@@ -95,6 +95,11 @@ button {
   cursor: pointer;
 }
 
+.login-form button {
+  width: 86px;
+  height: 40px;
+}
+
 .widget {
   display: flex;
   flex-direction: column;
